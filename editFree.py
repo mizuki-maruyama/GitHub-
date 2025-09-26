@@ -11,3 +11,7 @@ print("aiueo")
 print("aiueo")
 print("aiueo")
 print("aiueo")
+
+print("wei")
+
+print("あいうえおあいうえおあいうえお")
